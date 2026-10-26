@@ -49,7 +49,7 @@
 Сохраните три скриншота в папке `docs/` под именами `screenshot1.png`, `screenshot2.png` и `screenshot3.png`.
 
 ## Структура проекта
-
+```text
 readMeLab/
 ├── docs/
 │   ├── screenshot1.png
@@ -58,6 +58,7 @@ readMeLab/
 ├── Program.cs
 ├── readMe.csproj
 └── README.md
+```
 
 ## Вариант задания
 
