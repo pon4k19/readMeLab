@@ -46,8 +46,6 @@
 
 ![Окно среды разработки](docs/screenshot3.png)
 
-Сохраните три скриншота в папке `docs/` под именами `screenshot1.png`, `screenshot2.png` и `screenshot3.png`.
-
 ## Структура проекта
 ```text
 readMeLab/
